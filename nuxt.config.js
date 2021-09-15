@@ -33,9 +33,9 @@ export default {
   modules: [],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {},
+  build: {}
 
-  googleAnalytics: {
+  /*   googleAnalytics: {
     id: "UA-152744170-1"
-  }
+  } */
 };
